@@ -3,9 +3,13 @@
 Prompt: The story begins in a shop. The main character is an aging retailer from a large vessel, motivated by personal freedom. She finds herself in a challenge involving ancient treasure.
 
 Shop:Grocery Plus
+
 Name: Kate
+
 Vessel:Gestar
-Challenge: She doubts the treasure may be from an ancient mysterious culture that has been thought to have disappeared five hundrend years ago.
+
+Challenge: She doubts the treasure may be from an ancient mysterious culture that has been thought to have disappeared five hundrend years ago (Maya).
+
 Treasure:Pearl, necklace
 
 # Story
