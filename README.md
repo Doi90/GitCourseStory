@@ -10,6 +10,6 @@ Treasure:Pearl, necklace
 
 # Story
 
-Kate sat in the backroom of her shop, Grocery Plus, pondering her new business venture. She had made her fortune in teh grocery business and was now branching out into artifact trading.
+Kate sat in the backroom of her shop, Grocery Plus, pondering her new business venture. She had made her fortune in the grocery business and was now branching out into artifact trading.
 
 Here vessel, the Gestar, had just returned from sea with a necklace supposedly from a ancient civilisation thought to have disappeared five hundred years ago. She had her doubts. The pearls were not that old. Either it was a fake, or the civilisation still existed in secret.
