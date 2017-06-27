@@ -8,7 +8,7 @@ Name: Kate
 
 Vessel:Gestar
 
-Challenge: She doubts the treasure may be from an ancient mysterious culture that has been thought to have disappeared five hundrend years ago.
+Challenge: She doubts the treasure may be from an ancient mysterious culture that has been thought to have disappeared five hundrend years ago (Maya).
 
 Treasure:Pearl, necklace
 
